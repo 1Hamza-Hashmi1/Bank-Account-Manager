@@ -1,1 +1,3 @@
-# Simple Bank-Account-Manager Program
+# Bank-Account-Manager
+
+Simple Bank Account manager program
