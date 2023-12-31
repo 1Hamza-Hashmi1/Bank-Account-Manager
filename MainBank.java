@@ -1,5 +1,3 @@
-package coe318.lab4;
-
 public class MainBank {
 
     /**
